@@ -1,7 +1,9 @@
 UnistraMobile
 =============
-1) Page d'accueil
-2) Calendrier
-3) Annuaire
-4) Menu RU
-5) Paramètres
+<ol>
+<li>Page d'accueil
+<li>Calendrier
+<li>Annuaire
+<li>Menu RU
+<li>Paramètres
+</ol>
